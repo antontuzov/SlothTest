@@ -1,6 +1,6 @@
 # SlothTest 🦥
 
-**SlothTest** is the world's most entertaining Go test runner! It adds color, emojis, sound effects, and humor to your test output. Perfect for developers who want to make testing fun again.
+**SlothTest is an entertaining Go test runner! It adds color, emojis, sound effects, and humor to your test output. Perfect for developers who want to make testing fun again.
 
 ---
 
