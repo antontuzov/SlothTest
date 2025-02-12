@@ -37,7 +37,7 @@
  ```
 ## Run Tests with SlothTest
 ```
-   # Basic test run
+# Basic test run
 slothtest
 
 # Watch mode (rerun tests on file changes)
@@ -50,8 +50,7 @@ slothtest -watch -dance
 
 
 ## Flags
-
-
+```
 -watch: Enable file watching mode.
 
 -dance: Enable victory dance party on success.
@@ -59,7 +58,7 @@ slothtest -watch -dance
 -emojis: Enable emoji mode (default: true).
 
 -nofun: Disable all fun features (why would you?).
-
+```
 
 
 ## Example Output 🖥️
