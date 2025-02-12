@@ -25,14 +25,14 @@
 1. Install SlothTest using `go install`:
 
  ```
-   go install github.com/antontuzov/SlothTest@latest
+   go install github.com/antontuzov/slothtest@latest
 
  ```
 
 ## Install in Your Project
 
  ```
-   go get github.com/antontuzov/SlothTest@latest
+   go get github.com/antontuzov/slothtest@latest
 
  ```
 ## Run Tests with SlothTest
