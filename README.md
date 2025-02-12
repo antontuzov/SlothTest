@@ -49,7 +49,8 @@ slothtest -watch -dance
 ```
 
 
-##Flags
+## Flags
+
 
 -watch: Enable file watching mode.
 
@@ -61,7 +62,8 @@ slothtest -watch -dance
 
 
 
-##Example Output 🖥️
+## Example Output 🖥️
+
 ```
 🦥 SlothTest v1.0 - Go tests but sloooowly awesome!
 
