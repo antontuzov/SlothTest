@@ -32,12 +32,12 @@
 ## Install in Your Project
 
  ```
-   go install github.com/antontuzov/slothtest@latest
+   go get github.com/antontuzov/slothtest@latest
 
  ```
 ## Run Tests with SlothTest
 ```
-   # Basic test run
+# Basic test run
 slothtest
 
 # Watch mode (rerun tests on file changes)
@@ -50,7 +50,7 @@ slothtest -watch -dance
 
 
 ## Flags
-
+```
 
 -watch: Enable file watching mode.
 
@@ -60,6 +60,7 @@ slothtest -watch -dance
 
 -nofun: Disable all fun features (why would you?).
 
+```
 
 
 ## Example Output 🖥️
