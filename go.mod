@@ -1,4 +1,4 @@
-module SlothTest
+module github.com/antontuzov/slothtest
 
 go 1.23.6
 
