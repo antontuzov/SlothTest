@@ -50,7 +50,7 @@ slothtest -watch -dance
 
 
 ## Flags
-```
+
 
 -watch: Enable file watching mode.
 
@@ -60,7 +60,6 @@ slothtest -watch -dance
 
 -nofun: Disable all fun features (why would you?).
 
-```
 
 
 ## Example Output 🖥️
